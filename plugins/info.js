@@ -2,27 +2,14 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 ╠═〘 INFO BOT 〙 ═
 ╠➥ Made in javascript via NodeJs
-╠➥ Rec: ᴍʀ.ʀᴀᴠᴀɴᴀɴ [ ʀᴀɴᴊɪᴛʜ.ᴍ ]
-╠➥ Script: ᴍʀ ʀᴀᴠᴀɴᴀɴ ™
+╠➥ Rec: Akhil 
+╠➥ Script: Akhil ™
 ║      [ᴅᴏɴᴛ ᴇᴅɪᴛ ᴄʀᴇᴅɪᴛs / ᴄʜᴇᴄᴋ  ʟɪᴄᴇɴsᴇ ]
-╠➥ ㄚㄖ凵ㄒ凵乃乇: https://youtube.com/c/MrRavanan
-╠➥ ㄚㄖ凵ㄒ凵乃乇 2几ᗪ 匚卄: https://youtube.com/channel/UChVky9HwaivYVdQRMCrM9Ig
-╠➥ 丨几丂ㄒ卂Ꮆ尺卂爪: https://instagram.com/__mr_ravanan?igshid=1lu9qhoz5czrn
+╠➥ send message : wa.me//+918943192489
 ║
-╠═〘 Thanks To 〙 ═
-╠➥ ɪɴᴅᴏɴᴇsɪᴀ ™
-╠➥ ᴍʀ ʀᴀᴠᴀɴᴀɴ ™
-╠➥ ᴍᴀʟᴀʏᴀʟɪᴢᴢ / ʏᴛ sᴜᴘᴘᴏʀᴛᴇʀs
-╠➥ And other friends :)
+║>ɪғ ʏᴏɪ ʜᴀᴠᴇ ᴀɴʏ ɪssᴜᴇ sᴇɴᴅ ᴍᴇssᴀɢᴇ? wa.me//+918943192489
 ║
-╠═〘 support ™ 〙 ═
-╠➥ https://youtube.com/c/MrRavanan
-╠➥ https://youtube.com/channel/UChVky9HwaivYVdQRMCrM9Ig
-╠➥ send message : wa.me//+919048410619
-║
-║>ɪғ ʏᴏɪ ʜᴀᴠᴇ ᴀɴʏ ɪssᴜᴇ sᴇɴᴅ ᴍᴇssᴀɢᴇ? wa.me//+919048410619
-║
-╠═〘 ʀ@ᴠ@ɴ@ɴ BOT 〙 ═
+╠═〘 Akhil BOT 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
